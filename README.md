@@ -7,3 +7,6 @@ https://www.photovoltaikforum.com/thread/182244-victron-multiplus-mit-sma-home-m
 
 #another Home Manager reader
 https://github.com/Knedox/venusos_sma_energy_meter
+
+#need to review
+https://professional.victronenergy.com/online-training/18/?time=1569
